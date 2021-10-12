@@ -1,3 +1,4 @@
+
 # Examples Setup
 
 ```
@@ -13,5 +14,6 @@ npx react-native run-ios
 
 ## android
 ```
-npx react-native run-android
+npx react-native run-andr
+oid
 ```
